@@ -98,7 +98,7 @@ Student Name | Last Name | Program
 Elise | Desjardins | Physics
 Jaila | Shamal | Geography
 Ritchie | Lee | Chemistry
-David | Ma | Chemistry
+David | Ma | Geography
 Megeen | Magee | Geography
 John | Meral | Geography
 Sear | Sean | Engineering
